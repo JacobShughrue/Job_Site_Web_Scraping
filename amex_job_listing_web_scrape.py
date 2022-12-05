@@ -1,7 +1,6 @@
 
 # install the requirements
 # pip install -r "C:\Users\Jacob Shughrue\Dropbox\Coding\Python\amex_job_listing_web_scrape\requirements.txt"
-
 import pandas as pd
 import numpy as np
 import os.path
@@ -138,9 +137,6 @@ def find_n_click():
     description_list.append(description)
 
 
-# create a new df with our job descriptions stored
-df_descriptions = pd.DataFrame(description_list)
-
 # initialize
 bullet_list = []
 
@@ -170,6 +166,9 @@ for line in range(job_titles_length):
         description_list.append('Error: job description missing')
         print("Description details no longer present")
         continue
+
+# create a new df with our job descriptions stored
+df_descriptions = pd.DataFrame(description_list)
 
 # take the list of dictionaries, stack them vertically by posting number/occurrence, and group them together by posting
 df_bullets = pd.DataFrame(bullet_list).stack().groupby(level=-1).agg(list)
