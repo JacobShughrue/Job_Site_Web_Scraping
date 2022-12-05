@@ -1,4 +1,3 @@
-
 # install the requirements
 # pip install -r "C:\Users\Jacob Shughrue\Dropbox\Coding\Python\amex_job_listing_web_scrape\requirements.txt"
 import pandas as pd
@@ -14,10 +13,9 @@ from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import ElementClickInterceptedException
 
-# Configure driver settings
+# Configure Selenium webdriver settings
 path = r'C:\Users\Jacob Shughrue\AppData\\Local\Programs\Python\Python310\lib\site-packages\chromedriver_autoinstaller\106\chromedriver.exe'
 chromedriver.install()
-# sys.stdout.reconfigure(encoding='utf-8')  # resolve charmap encoding error
 s = Service(path)
 options = Options()
 options.headless = False  # option to run without visibly opening the browser
@@ -44,10 +42,10 @@ total_count = 0
 
 def scroll_down():
     """" function to scroll down 25 times """
-    # set the page down counts to be 0 for each loop
+    # set the "page down" counts to be 0 for each loop
     repeat_count = 0
 
-    # the number of times to send the page down button
+    # the number of times to send the "page down" button
     repeat = 25
     global total_count
 
@@ -59,7 +57,7 @@ def scroll_down():
         scroll.send_keys(Keys.PAGE_DOWN)
         time.sleep(.4)
 
-        # Keep track of how many page down key presses have been sent
+        # Keep track of how many "page down" key presses have been sent
         repeat_count += 1
         total_count += 1
         print(f"Number of page down sends this loop: " + str(repeat_count),
@@ -71,7 +69,7 @@ def scroll_down_some_more():
     # call a function to scroll down 25 times
     scroll_down()
 
-    # locate the more job postings button
+    # locate the 'more job postings' button which appears after ~25 "page down" sends
     more_postings = driver.find_element(By.CSS_SELECTOR, value=".btn.btn-sm.btn-secondary.show-more-positions")
 
     # click the 'more postings' button to load more content
@@ -80,12 +78,12 @@ def scroll_down_some_more():
     print("Continuing with newly loaded content...")
 
 
-# while statement to scroll all the way to bottom of the page
+# while statement to scroll all the way to bottom of the page to load all possible relevant positions
 while 1 == 1:
     try:
         scroll_down_some_more()
 
-    # when there no "more posting" button, you are at the bottom of the page
+    # when the "more postings" button is not available, you are at the bottom of the page
     except NoSuchElementException:
         print('Scrolling finished')
         break
@@ -96,7 +94,7 @@ section = driver.find_elements(By.CSS_SELECTOR, value=".card.position-card")
 # initialize
 jobs_available_list = []
 
-# iterate through all positions to get a list of all open job titles
+# iterate through all position cards to get a list of all open job titles
 for position in section:
     # get the english text of each web element
     title = position.find_element(By.CSS_SELECTOR, value=r".position-title.line-clamp.line-clamp-2").text
@@ -238,7 +236,7 @@ file_name = 'export_current_job_postings.csv'
 df.to_csv(os.path.join(export_path, file_name))
 
 # quit the Selenium instance
-# driver.close()
+driver.close()
 
 # calculate how long this code ran for and print the result
 elapsed_time = time.time() - st
