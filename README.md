@@ -5,7 +5,7 @@
 
 ### File Glossary
 **1. export_current_job_postings.xlsx** - the scraped results have been exported to an Excel file for viewing convenience
-**2. amex_job_listing_web_scrape.py** - Python file that will open Chrome scrape the the site and process the results
+**2. amex_job_listing_web_scrape.py** - Python file that will open Google Chrome and scrape the the site and process the results
 **3. requirementst.txt** - a list of packages needed for this project
 
 ### My Steps
@@ -23,3 +23,4 @@
 - Once all data was loaded, I dropped any data that was in a nonstandard format and parsed the job description for the salary range, allowing me to calculate a salary midpoint.
 - Finally, in order to quickly see positions of interest to me, I put together a list of search words (ex. {"data","analytics"}) - the program counts how many search words are in the job description and sorts the positions in a descending fashion, positions with the most number of hits will be at the top of the dataframe.
 
+A video of the program running can be seen [here](https://www.youtube.com/watch?v=smIsr_H56MY&ab_channel=JacobShughrue)
