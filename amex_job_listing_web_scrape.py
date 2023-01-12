@@ -14,8 +14,7 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import ElementClickInterceptedException
 
 # Configure Selenium webdriver settings
-path = r'C:\Users\Jacob Shughrue\AppData\\Local\Programs\Python\Python310\lib\site-packages\chromedriver_autoinstaller\106\chromedriver.exe'
-chromedriver.install()
+path = str(chromedriver.install())
 s = Service(path)
 options = Options()
 options.headless = False  # option to run without visibly opening the browser
@@ -88,7 +87,7 @@ while 1 == 1:
         print('Scrolling finished')
         break
 
-# get the html info for all position cards on the page
+# get the html labels for all position cards on the page
 section = driver.find_elements(By.CSS_SELECTOR, value=".card.position-card")
 
 # initialize
@@ -219,7 +218,8 @@ df['min_salary'] = df['min_salary'].str.replace(',', '').replace(np.nan, 0).asty
 df['salary_midpoint'] = (((df['max_salary'] - df['min_salary']) / 2) + df['min_salary']).astype(int)
 
 # create a list of key-words that are of interest
-search_words = {'data', 'finance', 'financial' 'dashboard', 'dashboards', 'bi', 'powerbi', 'tableau', 'analysis',
+search_words = {'data', 'finance', 'financial' 'dashboard', 'dashboards', 'bi', 'powerbi'
+    , 'tableau', 'analysis',
                 'analyze', 'analytical', 'analytics', 'deploying', 'trend', 'science', 'scientist', 'decision', 'ai',
                 'ml', 'aiml', 'learning', 'sql', 'python', 'python/r', 'predictive', 'modeling'}  # case sensitive
 
@@ -230,10 +230,19 @@ df['key_word_count'] = df['all_key_words'].str.len()
 # order the df so the most relevant jobs, based on the key word count, are at the top of the table
 df = df.sort_values(by=['key_word_count', 'salary_midpoint'], ascending=[False, False])
 
+# convert list to a string
+df['bullets'] = df['bullets'].astype(str)
+
+# clean rows of extra backslashes and brackets
+df['bullets'] = df['bullets'].replace('\\\\n', ' \n', regex=True).str[2:].str[:-2]
+
+# drop description column as the bullets column contains the vital information
+df = df.drop('description', axis=1)
+
 # write the df to a csv
 export_path = r'C:\Users\Jacob Shughrue\Dropbox\Coding\Python\amex_job_listing_web_scrape'
 file_name = 'export_current_job_postings.csv'
-df.to_csv(os.path.join(export_path, file_name))
+df.to_csv(os.path.join(export_path, file_name), encoding='utf-8-sig')
 
 # quit the Selenium instance
 driver.close()
