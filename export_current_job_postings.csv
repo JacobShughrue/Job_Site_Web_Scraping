@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿,title,bullets,salary_range,max_salary,min_salary,salary_midpoint,all_key_words,key_word_count
+=======
+﻿,title,bullets,salary_range,max_salary,min_salary,salary_midpoint,all_key_words,key_word_count
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 0,Manger-Data Science,"Develop predictive modeling to forecast P&L metrics that incorporates behaviors and increased level of data granularity 
 Use machine learning techniques to improve forecasts and produce business insights 
 Leverage visualization and reporting tools like power bi and tableau. 
@@ -12,7 +16,11 @@ Strong communication skills and business knowledge
 Be data-driven, outcome-focused and fast learner 
 Strong analytical, organizational, and problem-solving skills with good attention to detail 
 Ability to explain complex mathematical concepts 
+<<<<<<< HEAD
 Ability to solve ad-hoc business problems independently and projects while adhering to deadlines","$90,000.00 to $165,000.00 annually + bonus",165000,90000,127500,"{'predictive', 'science', 'decision', 'bi', 'modeling', 'analytics', 'tableau', 'analytical', 'data', 'finance', 'learning'}",11
+=======
+Ability to solve ad-hoc business problems independently and projects while adhering to deadlines","$90,000.00 to $165,000.00 annually + bonus",165000,90000,127500,"{'predictive', 'science', 'decision', 'bi', 'modeling', 'analytics', 'tableau', 'analytical', 'data', 'finance', 'learning'}",11
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 19,Java Engineer,"Ability in software development, such coding assignments 
 Function as member of an agile team by contributing to software builds through consistent development practices (tools, common components, and documentation) 
 Participate in code reviews and automated testing 
@@ -62,7 +70,11 @@ Designs, codes, tests, maintains, and documents applications
 Takes part in reviews of own work and reviews of colleagues' work 
 Defines test conditions based on the requirements and specifications provided 
 Has deep understanding of the core tools used in the planning, analyzing, crafting, building, testing, configuring, and maintaining of assigned application(s) 
+<<<<<<< HEAD
 Intermediate knowledge of infrastructure technologies and components ","$85,000.00 to $150,000.00 annually + bonus",150000,85000,117500,"{'sql', 'science', 'dashboards', 'deploying', 'tableau', 'analytical', 'data', 'finance', 'ai', 'learning'}",10
+=======
+Intermediate knowledge of infrastructure technologies and components ","$85,000.00 to $150,000.00 annually + bonus",150000,85000,117500,"{'sql', 'science', 'dashboards', 'deploying', 'tableau', 'analytical', 'data', 'finance', 'ai', 'learning'}",10
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 8,Manager-Finance,"Manage the forecasting and analytics around US write-offs through close partnership with Chief Credit Officers. 
 Develop, deploy, and maintain forecasting models utilizing cutting edge techniques and platforms. 
 Deep dive on credit metrics and emerging trends to identify risk and opportunities, inflection point, and key drivers of performance. 
@@ -74,7 +86,11 @@ Bachelor’s degree or above in a quantitative field, such as mathematics, stati
 Leading with courage - Build relationships at varying levels, make decisions quickly and influence change. 
 Agile mindset - Highly motivated self-starter with a positive, can-do attitude. 
 Ability to multi-task - Simultaneously manage through different projects in a fast-paced, dynamic environment. 
+<<<<<<< HEAD
 Resourceful and results orientation - Think strategically to help maximize the team’s goals while demonstrating analytical prowess to drive impactful results.","$80,000.00 to $155,000.00 annually + sales incentive + equity (if applicable)",155000,80000,117500,"{'science', 'decision', 'bi', 'python', 'analytics', 'tableau', 'analytical', 'data', 'finance'}",9
+=======
+Resourceful and results orientation - Think strategically to help maximize the team’s goals while demonstrating analytical prowess to drive impactful results.","$80,000.00 to $155,000.00 annually + sales incentive + equity (if applicable)",155000,80000,117500,"{'science', 'decision', 'bi', 'python', 'analytics', 'tableau', 'analytical', 'data', 'finance'}",9
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 5,"Manager, Data Analyst ESG & Sustainability-HIRING FOR FUTURE OPPORTUNITIES","Work with GREWE team and external partners to build and manage the Amex internal ESG data repository to support enterprise wide ESG data management and reporting. 
 Manage data repository architecture and mapping, development of governance processes, integration of cross-functional data streams in partnership with other Amex business groups, and data library of ESG-related key performance. 
 Ensure ESG data integrity and fidelity in data repository and enterprise reporting through initial and regular audits/analysis and ad-hoc data reviews as needed by GREWE and other Amex teams. 
@@ -95,7 +111,11 @@ Be comfortable executing on multiple projects and high-quality deliverables simu
 Minimum 5 years work experience in a global enterprise in a data management and analysis role is required. 
 Advanced experience with data analysis using Excel is required. Experience using data management tools such as Microsoft Access and data visualization tools such as Tableau is preferred. 
 Bachelor’s degree is required. Prior work experience in ESG-related operations is preferred. 
+<<<<<<< HEAD
 Excellent verbal and written communication and presentation skills",,0,0,0,"{'science', 'decision', 'analyze', 'dashboards', 'analysis', 'tableau', 'analytical', 'data', 'learning'}",9
+=======
+Excellent verbal and written communication and presentation skills",,0,0,0,"{'science', 'decision', 'analyze', 'dashboards', 'analysis', 'tableau', 'analytical', 'data', 'learning'}",9
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 1,Data Scientist - Global Decision Science,"Work with massive amounts of digital data (Web, App, API) and sophisticated tools in an industry leading Big Data environment.   
 Build NLP driven solutions from identifying business problems, to collecting training dataset, to analyzing data, to modeling, to validating and to delivering NLP models 
 Build everything from basic reports to advanced machine learning models and algos to drive improvements to our customer’s online and mobile app experiences. 
@@ -112,7 +132,11 @@ Independent thinker who’s organized, has great attention to detail, and can mu
 Strong communication skills 
 Ability to learn quickly and work independently with sophisticated, unstructured initiatives 
 Ability to integrate with cross-functional business partners worldwide 
+<<<<<<< HEAD
 Proficient in presentation tools, including Excel and PowerPoint","$90,000.00 to $165,000.00 annually + bonus",165000,90000,127500,"{'predictive', 'science', 'decision', 'modeling', 'analytical', 'data', 'ai', 'learning'}",8
+=======
+Proficient in presentation tools, including Excel and PowerPoint","$90,000.00 to $165,000.00 annually + bonus",165000,90000,127500,"{'predictive', 'science', 'decision', 'modeling', 'analytical', 'data', 'ai', 'learning'}",8
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 7,"Credit & Fraud Risk Strategy (Analyst, Sr. Analyst, Manager, and Sr. Manager)","Develop and continuously enhance policies, processes, and controls for mitigating credit risk exposure and preventing fraud 
 Conduct quantitative analysis to decide the thresholds within which consumers and businesses can access funds (for example: who is approved for a card, how much credit line do they receive, and when they swipe their card, is their transaction approved?) 
 Design customer communication and servicing strategies to support risk management strategies, ensuring a positive experience across every customer touchpoint 
@@ -127,7 +151,11 @@ Ability to handle large datasets using SAS, SQL, R, Python or another similar pr
 Thought leadership and solution-oriented mindset 
 Ability to think strategically and apply both quantitative methods and business insights to drive results 
 Ability to build strong relationships in a cross-functional environment 
+<<<<<<< HEAD
 Clear, effective written and oral communication skills ","$80,000.00 to $155,000.00 annually + sales incentive + equity (if applicable)",155000,80000,117500,"{'predictive', 'science', 'analyze', 'analysis', 'python', 'analytical', 'data'}",7
+=======
+Clear, effective written and oral communication skills ","$80,000.00 to $155,000.00 annually + sales incentive + equity (if applicable)",155000,80000,117500,"{'predictive', 'science', 'analyze', 'analysis', 'python', 'analytical', 'data'}",7
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 14,Manager – ICS Marketing Analytics and Insights,"Lead the design, development and implementation of new standardized analytics products focused on acquisition from digital channels. Be a thought leader in defining performance metrics. 
 Understand and analyze various clickstream and conversion funnel data, drawing insights that help inform the performance of the digital marketing channels. 
 Partner with EDDS, Finance, Risk and other analytics partners to streamline acquisition reporting products with a lens of driving data accuracy and single source of truth for performance metrics 
@@ -142,7 +170,11 @@ Strong relationship skills and ability to collaborate across many functional are
 Strong communication skills (written and verbal) and partner management. 
 Ability to work in a fast paced environment and deliver on tight timelines 
 4-7 years proven experience 
+<<<<<<< HEAD
 MBA or equivalent preferred', '","$80,000.00 to $155,000.00 annually + bonus",155000,80000,117500,"{'sql', 'analyze', 'analysis', 'python', 'analytics', 'tableau', 'data'}",7
+=======
+MBA or equivalent preferred', '","$80,000.00 to $155,000.00 annually + bonus",155000,80000,117500,"{'sql', 'analyze', 'analysis', 'python', 'analytics', 'tableau', 'data'}",7
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 12,Business Analyst I,"Support creation and expansion of regulatory business self-testing program by providing samples for multiple markets using statistical sampling techniques for the various GSG line of businesses. 
 Drive and Deliver Regulatory/Governance reports for Testing and Compliance teams using big data platforms (Cornerstone), Yellow bricks, SAS, SQL, Python and Tableau 
 Analyze and create visualizations using Tableau, Excel, Python charts etc. 
@@ -159,7 +191,11 @@ Familiarity with Magellan is desirable', 'Masters/Graduate degree from a reputed
 Functional Skills/Capabilities: 
 Excellent Interpersonal skills, Multitasking, and Thought-leadership skills with the ability to influence cross-functional teams.', 'Big data knowledge, Hive platform, Tableau server knowledge required', 'Set the Agenda: Define What Winning Looks Like, Put Enterprise Thinking First, Lead with an External Perspective 
 Bring Others with You: Build the Best Team, Seek & Provide Coaching Feedback, Make Collaboration Essential 
+<<<<<<< HEAD
 Do It the Right Way: Communicate Frequently, Candidly & Clearly, Make Decisions Quickly & Effectively, Live the Blue Box Values, Great Leadership Demands","$55,000.00 to $105,000.00 annually + bonus",105000,55000,80000,"{'analyze', 'decision', 'python', 'analytics', 'tableau', 'analytical', 'data'}",7
+=======
+Do It the Right Way: Communicate Frequently, Candidly & Clearly, Make Decisions Quickly & Effectively, Live the Blue Box Values, Great Leadership Demands","$55,000.00 to $105,000.00 annually + bonus",105000,55000,80000,"{'analyze', 'decision', 'python', 'analytics', 'tableau', 'analytical', 'data'}",7
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 30,Director - Product Development,"Build the vision, strategy, and roadmap of Cloud-native AI/ML core foundation products& tools to derive significant impacts for our products 
 Build new AI technologies, services, and platforms to enable scale for Amex’s products and offerings 
 Bring innovation into Amex from trends and best practices in the external AI community 
@@ -177,7 +213,11 @@ Excellent communication skills: Ability to translate technical and analytical me
 Strength in meeting objectives through influence, facilitation, and team building 
 Comfortable in working with and managing relationships across the enterprise (including negotiation and influencing skills). 
 Strategic thinker with ability to craft plans to multiple stakeholders and operate effectively within the dynamic organization. 
+<<<<<<< HEAD
 Comfortable working across locations and time zones, with both co-located and remote team members.","$130,000.00 to $205,000.00 annually + bonus + equity (if applicable)",205000,130000,167500,"{'analytics', 'analytical', 'data', 'ai', 'ml', 'learning'}",6
+=======
+Comfortable working across locations and time zones, with both co-located and remote team members.","$130,000.00 to $205,000.00 annually + bonus + equity (if applicable)",205000,130000,167500,"{'analytics', 'analytical', 'data', 'ai', 'ml', 'learning'}",6
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 2,Senior Data Engineer,"Ability in software development, such as defining data and integrations architecture, coding assingments, et cetera 
 Function as core member and lead an agile team by contributing to software builds through consistent development practices (tools, common components, and documentation) 
 Demonstrate increased self-reliance to achieve team goals 
@@ -204,7 +244,11 @@ Understanding of SOA, microservices and containerized application concepts would
 Strong analytical skills and programming skills, in production environment. 
 Hands on Experience on GraphQL a plus 
 Experience with Production Support/Dev-Ops would be a plus 
+<<<<<<< HEAD
 Willingness to learn new technologies and exploit them to their optimal potential","$110,000.00 to $190,000.00 annually + bonus",190000,110000,150000,"{'analytics', 'analytical', 'data', 'deploying', 'ai', 'learning'}",6
+=======
+Willingness to learn new technologies and exploit them to their optimal potential","$110,000.00 to $190,000.00 annually + bonus",190000,110000,150000,"{'analytics', 'analytical', 'data', 'deploying', 'ai', 'learning'}",6
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 9,Engineer - Back end AI / ML,"Performing R&D activities for support of predominantly document processing automation 
 Refining the result of R&D output into production worthy AI services 
 Collaborating with product partners to define, clarify, and enhance requirements 
@@ -219,7 +263,11 @@ Fundamental knowledge of supervised / unsupervised machine learning', 'Experienc
 Distributed systems fundamentals and experience 
 Experience with ML model training and inference 
 Experience with use of accelerated computing hardware 
+<<<<<<< HEAD
 Knowledge of major public cloud vendor products and services","$85,000.00 to $150,000.00 annually + bonus",150000,85000,117500,"{'science', 'python', 'data', 'ai', 'ml', 'learning'}",6
+=======
+Knowledge of major public cloud vendor products and services","$85,000.00 to $150,000.00 annually + bonus",150000,85000,117500,"{'science', 'python', 'data', 'ai', 'ml', 'learning'}",6
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 16,Senior Financial Analyst,"Support development of financial projections across different macroeconomic environments to support various stress testing exercises across AXP, including Bank Holding Company and local market Internal Capital Adequacy Assessment Process (ICAAP) and American Express National Bank (AENB) Macroeconomic Stress Testing 
 Support the development and implementation of an automated solution for forecasting using enterprise data systems such as TM1 
 Execute on the team’s data governance, documentation, and process and controls efforts 
@@ -231,7 +279,11 @@ Ability to handle high pressure environment with aggressive deadlines
 Exceptional communication skills – both verbal and written 
 Strong organizational skills 
 Knowledge of card business model and economics preferred 
+<<<<<<< HEAD
 2+ years of relevant work experience","$55,000.00 to $105,000.00 annually + bonus",105000,55000,80000,"{'bi', 'analysis', 'modeling', 'analytics', 'data', 'finance'}",6
+=======
+2+ years of relevant work experience","$55,000.00 to $105,000.00 annually + bonus",105000,55000,80000,"{'bi', 'analysis', 'modeling', 'analytics', 'data', 'finance'}",6
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 40,Senior Engineer - Full Stack,"Perform all technical aspects of software development for assigned applications including design, hands-on engineering, developing framework & tooling including prototypes, and code review, mentor engineering peers and own and drive transformation with various technology domains. 
 Experience designing and developing REST APIs for high volume clients. 
 Experience with relational and NoSQL databases, including PostgreSQL, MongoDb, Couchbase, or Cassandra is a plus. 
@@ -257,7 +309,11 @@ Enable engineering teams to adapt and promote OpenSource
 2 + years of experience with Big Data Tech stack of technologies 
 2 + years of experience in designing and building solutions using Kafka streams or queues  
 2 + years of experience or exposure to Machine Learning and Artificial Engineering would be beneficial. 
+<<<<<<< HEAD
 Master's Degree","$110,000.00 to $190,000.00 annually + bonus",190000,110000,150000,"{'science', 'python', 'data', 'trend', 'learning'}",5
+=======
+Master's Degree","$110,000.00 to $190,000.00 annually + bonus",190000,110000,150000,"{'science', 'python', 'data', 'trend', 'learning'}",5
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 15,"Finance Manager, Investment Optimization","Identify risks & opportunities and develop metrics to actively manage the investment pool of the global merchant portfolio. 
 Manage the global GMS investment process in close collaboration with business partners. Provide insights on investment performance and utilization. Drive innovation in how GMS measures, tracks, and analyzes investments to support investment decisions.  
 Join a team that is driving the modernization of the investment process, from building investment tracking metrics, data driven dashboards for performance tracking to envisioning and developing platforms.  
@@ -270,7 +326,11 @@ Results Driven:   Ability to work under pressure, navigate through ambiguity and
 Continuous Improvement Mindset:  Build, maintain and oversee a team that focuses on continuous process improvement and an intense focus on driving change in the organization. 
 Strong work ethic:  Demonstrated will-to-win and personal excellence. 
 5+ years of Finance or business analytical experience. 
+<<<<<<< HEAD
 Master’s degree in business administration or Finance is preferred.","$80,000.00 to $155,000.00 annually + bonus",155000,80000,117500,"{'decision', 'dashboards', 'analytical', 'data', 'finance'}",5
+=======
+Master’s degree in business administration or Finance is preferred.","$80,000.00 to $155,000.00 annually + bonus",155000,80000,117500,"{'decision', 'dashboards', 'analytical', 'data', 'finance'}",5
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 27,Engineer- Java/Machine Learning,"Beginner level ability in software development, such coding assignments. 
 Function as member of an agile team by contributing to software builds through consistent development practices (tools, common components, and documentation). 
 Demonstrate increased self-reliance to achieve team goals. 
@@ -295,7 +355,11 @@ Willingness to learn new Technologies and exploit them to their optimal potentia
 Able to understand and use complex data structures and associated components. 
 Designs, codes, tests, maintains, and documents applications. 
 Familiar with GIT. 
+<<<<<<< HEAD
 Ability to effectively interpret technical and business objectives. ","$85,000.00 to $150,000.00 annually + bonus",150000,85000,117500,"{'sql', 'analysis', 'data', 'ai', 'learning'}",5
+=======
+Ability to effectively interpret technical and business objectives. ","$85,000.00 to $150,000.00 annually + bonus",150000,85000,117500,"{'sql', 'analysis', 'data', 'ai', 'learning'}",5
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 34,Manager-Risk Management,"Develop and support the implementation of fraud risk management strategies including the design of customer authentication and POS controls 
 Lead the design and execution of the risk capabilities required to support new process enhancements 
 Regularly review portfolio MIS and conduct regular case reviews to identify opportunities and drive effective risk strategies 
@@ -305,8 +369,13 @@ Strong thought leadership
 Strong ability to drive results; self starter 
 Strong interpersonal, written, and verbal communication skills 
 Master’s degree required 
+<<<<<<< HEAD
 Degree in Engineering, Mathematics, Statistics, Economics, Business Analytics or related fields is strongly desired","$80,000.00 to $155,000.00 annually + bonus",155000,80000,117500,"{'decision', 'python', 'analytics', 'analytical', 'data'}",5
 10,Director - Risk Management,,"$130,000.00 to $205,000.00 annually + bonus",205000,130000,167500,"{'decision', 'analytics', 'analytical', 'data'}",4
+=======
+Degree in Engineering, Mathematics, Statistics, Economics, Business Analytics or related fields is strongly desired","$80,000.00 to $155,000.00 annually + bonus",155000,80000,117500,"{'decision', 'python', 'analytics', 'analytical', 'data'}",5
+10,Director - Risk Management,,"$130,000.00 to $205,000.00 annually + bonus",205000,130000,167500,"{'decision', 'analytics', 'analytical', 'data'}",4
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 3,Senior Product Manager - Enterprise Data Platform,"Understand the current on-prem big data platform landscape, architect the target state architecture, and execute the modernization roadmap to public cloud infrastructure 
 Define the product vision and strategy for the cloud capabilities in close partnership with technology teams and business stakeholders across the enterprise 
 Collaborate with product teams, solution team and technology partners to deliver customer centric solutions best tailored to AXP colleague and customer needs 
@@ -320,7 +389,11 @@ Highly organized and self-motivated individual who can combine problem-resolutio
 Inherent customer focus with an ability to interact with leaders at all levels of the organization 
 Possess a unique blend of business and technical savvy, excellent communication & collaboration skills; ability to build relationships, influence decisions, and inspire cross-functional teams to deliver on shared objectives 
 Confidence in decision-making in complex & ambiguous situations; comfortable troubleshooting and aligning conflicting interests 
+<<<<<<< HEAD
 Degree in STEM fields with work experience in information management, strategy, or the payments business","$110,000.00 to $190,000.00 annually + sales incentive + equity (if applicable)",190000,110000,150000,"{'decision', 'analytical', 'science', 'data'}",4
+=======
+Degree in STEM fields with work experience in information management, strategy, or the payments business","$110,000.00 to $190,000.00 annually + sales incentive + equity (if applicable)",190000,110000,150000,"{'decision', 'analytical', 'science', 'data'}",4
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 38,Senior Engineer - Fullstack React,"Function as senior member of an Agile scrum team providing technical leadership to a team of engineers and helping drive consistent development practices (tools, testing, common components, and documentation). 
 Spend ~50% of time writing code and testing, and remainder of time managing team and stakeholders through ongoing product/platform release sprints 
 Analyze/refine business features and user stories with Product Owner to support design and build activities. 
@@ -365,7 +438,11 @@ Event Driven and Reactive Programming (Vert.X or Spring Webflux) experience
 Experience of writing cloud native applications using OpenShift and Docker containers 
 Strong analytical skills and knack of looking for non-obvious solutions 
 Domain knowledge of Payments and/or Financial products 
+<<<<<<< HEAD
 Experience building microservices using domain driven design","$110,000.00 to $190,000.00 annually + bonus",190000,110000,150000,"{'analytical', 'science', 'learning', 'data'}",4
+=======
+Experience building microservices using domain driven design","$110,000.00 to $190,000.00 annually + bonus",190000,110000,150000,"{'analytical', 'science', 'learning', 'data'}",4
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 21,Senior Design Manager,"A proven track record of integrating a wide range of user research methods into product design and design practices 
 Understanding and supporting the design thinking process, this includes empathy mapping, creating workflows, understanding, and managing designs (no design skills are required), user testing and read out to leadership 
 Excellent communication skills and ability to relay research methodology concepts and findings to product teams and to end users in a clear, simple, and relatable manner 
@@ -389,7 +466,11 @@ Plus, to have SAFe Agile understanding', 'Design Thinking Understanding
 Understanding of UX principles 
 Provide Competitor Analysis', 'Safe Agile understanding 
 Amex Data product understanding 
+<<<<<<< HEAD
 Graphical design/UI experience","$90,000.00 to $165,000.00 annually + bonus",165000,90000,127500,"{'decision', 'science', 'analysis', 'data'}",4
+=======
+Graphical design/UI experience","$90,000.00 to $165,000.00 annually + bonus",165000,90000,127500,"{'decision', 'science', 'analysis', 'data'}",4
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 6,Senior Engineer Data Engineering/Java,"Function as a member of an agile team and helps drive consistent development and test practices with respect to tools, common components, and documentation. 
 Perform technical development for applications including architecture, design, developing prototypes, writing new code and API's and performing unit and assembly testing of developed software also as needed 
 Hand-on architecture working closely with solution architects and architecture governance team for solution development and design reviews 
@@ -414,7 +495,11 @@ Experience with Big data technologies and NoSQL database preferred.', 'Demonstra
 Experience on RESTful API design and implementation is a plus 
 Experience with automated release management using Maven, Salt, Git, Jenkins. 
 Looks proactively beyond the obvious for continuous improvement opportunities. 
+<<<<<<< HEAD
 Willingness to learn new technologies and exploit them to their optimal potential', 'Excellent leadership and communication skills, with the ability to influence at all levels across functions, from both technical and non-technical perspectives alike.","$110,000.00 to $190,000.00 annually + bonus",190000,110000,150000,"{'learning', 'decision', 'data'}",3
+=======
+Willingness to learn new technologies and exploit them to their optimal potential', 'Excellent leadership and communication skills, with the ability to influence at all levels across functions, from both technical and non-technical perspectives alike.","$110,000.00 to $190,000.00 annually + bonus",190000,110000,150000,"{'learning', 'decision', 'data'}",3
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 23,Senior Engineer,"Serving as a core member of an agile team that leads user story analysis and elaboration, designs and develops software applications 
 Responsible for the applications architecture, work/coordinate with other team’s architect, engineers and vendors as necessary 
 Writing code and unit tests, automation, and conducting code reviews and testing 
@@ -435,7 +520,11 @@ Thorough understanding of JSON, Web Service technologies, and data structure fun
 Experience with adaptive and responsive development techniques 
 Aptitude for learning and applying programming concepts 
 Ability to effectively communicate with internal and external business partners 
+<<<<<<< HEAD
 Experience with a broad range of software languages and payments technologies is a plus.","$110,000.00 to $190,000.00 annually + bonus",190000,110000,150000,"{'learning', 'analysis', 'data'}",3
+=======
+Experience with a broad range of software languages and payments technologies is a plus.","$110,000.00 to $190,000.00 annually + bonus",190000,110000,150000,"{'learning', 'analysis', 'data'}",3
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 26,"Senior Engineer - Agile Dev. REACT/Redux, HTML5, CSS3","Serving as a core member of an agile team that leads user story analysis, design, and development 
 Responsible for the application’s architecture and coordinating across teams to implement software solutions 
 Writing code and unit tests, adding to automated regression test suites, and conducting code reviews 
@@ -455,7 +544,11 @@ Thorough understanding of JSON, Web Service technologies, and data structure fun
 Experience with adaptive and responsive development techniques 
 Aptitude for learning and applying programming concepts 
 Strong verbal and written communication skill across technology teams as well as non-technical business partners 
+<<<<<<< HEAD
 Experience with payments technologies is a plus","$110,000.00 to $190,000.00 annually + bonus",190000,110000,150000,"{'learning', 'analysis', 'data'}",3
+=======
+Experience with payments technologies is a plus","$110,000.00 to $190,000.00 annually + bonus",190000,110000,150000,"{'learning', 'analysis', 'data'}",3
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 13,Senior Manager - Pricing,"Develop pricing strategies based on quantitative data analytics and provide recommendations on key financial / commercial terms during merchant negotiations 
 Evaluate business cases for various merchant pricing scenarios, model P&L impacts, and perform sensitivity analyses to drive agile business decisions 
 Develop and regularly present to senior leaders on merchant pricing negotiation strategies and recommendations 
@@ -473,7 +566,11 @@ Creative thinker who is willing to question traditional ways of doing things and
 Strong project management skills with full ownership from analysis through to implementation 
 Passionate focus on the customer; demonstrated desire to understand and solve for customer needs 
 Demonstrated ability to handle multiple requests and prioritize accordingly 
+<<<<<<< HEAD
 Capacity to remain calm and flexible under pressure","$80,000.00 to $155,000.00 annually + bonus",155000,80000,117500,"{'analytics', 'analysis', 'data'}",3
+=======
+Capacity to remain calm and flexible under pressure","$80,000.00 to $155,000.00 annually + bonus",155000,80000,117500,"{'analytics', 'analysis', 'data'}",3
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 18,Director UX Design,"Partner with product and engineering leaders across the organization to identify user needs and define and deliver design solutions which improve overall customer experience 
 Drive user-centricity aligned with overall strategy to develop future product vision 
 Set vision and align with senior leaders to ensure quality design and alignment with product strategy and roadmaps 
@@ -507,7 +604,11 @@ Have strong digital literacy and firm grasp of Figma and/or other prototyping to
 Has been the design key contributor on several major large scale web site projects, from start to finish 
 Experience crafting style guides, pattern libraries, and other design solutions that drive design across large organizations 
 Has a solid understanding of how to conduct research sessions and translate user needs into insights to influence product strategy 
+<<<<<<< HEAD
 7+ years of related experience","$170,000.00 to $255,000.00 annually + bonus + equity (if applicable)",255000,170000,212500,"{'analytical', 'data'}",2
+=======
+7+ years of related experience","$170,000.00 to $255,000.00 annually + bonus + equity (if applicable)",255000,170000,212500,"{'analytical', 'data'}",2
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 32,Staff Architect - Enterprise Architecture,"Perform rapid POCs to experiment and build rails for the engineering team  
 Support engineers and project managers in rapid development and deployment  
 Actively participate in team and enterprise-wide architecture and engineering discussions.  
@@ -520,7 +621,11 @@ Extensive experience in designing and implementing large scale cloud-native plat
 Experience with microservices architectures\u202fand service mesh technologies is preferred. 
 Strong written, verbal communications, presentation skills, leadership, problem solving and analytical skills.  
 Proven collaboration skills along with the ability to influence without authority. 
+<<<<<<< HEAD
 Hands on experience in the following environments is preferred: Java, Go, Vert.x, React, Envoy, gRPC, Protobuf, Postgres, CouchBase, Cassandra, Redis, Consul, Jenkins, Docker, Kubernetes, OpenShift, GitHub Actions, Drools, Elastic Stack, Kafka, Spark, ML.', 'Bachelor’s Degree in Computer Science, Computer Science Engineering, or related field required; Advanced Degree preferred. ","$170,000.00 to $255,000.00 annually + bonus + equity (if applicable)",255000,170000,212500,"{'analytical', 'science'}",2
+=======
+Hands on experience in the following environments is preferred: Java, Go, Vert.x, React, Envoy, gRPC, Protobuf, Postgres, CouchBase, Cassandra, Redis, Consul, Jenkins, Docker, Kubernetes, OpenShift, GitHub Actions, Drools, Elastic Stack, Kafka, Spark, ML.', 'Bachelor’s Degree in Computer Science, Computer Science Engineering, or related field required; Advanced Degree preferred. ","$170,000.00 to $255,000.00 annually + bonus + equity (if applicable)",255000,170000,212500,"{'analytical', 'science'}",2
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 20,Senior Java Backend Engineer,"Design and develop software solutions with Enterprise thinking 
 Foster sprit of collaboration across multiple internal teams. 
 Identifying opportunities for adopting new technologies 
@@ -541,7 +646,11 @@ Proven experience with automated build and test frameworks
 Experience with Agile (Scrum), Kanban 
 Experience with software development and collaboration tools (Bitbucket, JIRA, Confluence, GIT, Jenkins) etc 
 Consistent track record to tackle complex technical problems and the ability to influence and optimize mentorship from key partners 
+<<<<<<< HEAD
 Be a strong teammate with attention to detail","$110,000.00 to $190,000.00 annually + sales incentive + equity (if applicable)",190000,110000,150000,"{'science', 'learning'}",2
+=======
+Be a strong teammate with attention to detail","$110,000.00 to $190,000.00 annually + sales incentive + equity (if applicable)",190000,110000,150000,"{'science', 'learning'}",2
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 24,Server-Side Engineer,"Building server-side applications  
 Writing code  
 Refactoring code ', 'Deleting code  
@@ -558,7 +667,11 @@ Designing solutions for open ended problems
 Bachelor’s degree in Computer Science or related field, or equivalent experience ', 'Kotlin  
 Gradle  
 REST ', 'GQL  
+<<<<<<< HEAD
 RAML ","$110,000.00 to $190,000.00 annually + bonus",190000,110000,150000,"{'science', 'analysis'}",2
+=======
+RAML ","$110,000.00 to $190,000.00 annually + bonus",190000,110000,150000,"{'science', 'analysis'}",2
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 36,Senior Cloud Engineer,"Collaborate with the rest of the API engineering team, the UI engineering team, quality engineering tam and product management to build scalable high performant quality API and Orchestration solutions. 
 Research and apply recent technology and libraries that enable lean product development. 
 Implement API/Middleware solutions which integrates with NSQL, platforms, partners systems 
@@ -575,7 +688,11 @@ Deep understanding of API Gateways, their functions.
 Experience with any of the Container Orchestration technologies – Kubernetes, Openshift etc. 
 Deep understanding of CI/CD process and tools like – Git, Docker, Jenkins, Spinnaker, XL Release etc. 
 Successful track record of developing middleware solutions, with a strong focus on code quality, unit testing, integration testing, code quality analysis tools and API (Swagger) documentation. 
+<<<<<<< HEAD
 Familiar with agile application development methods. Understanding of QE processes in general.","$110,000.00 to $190,000.00 annually + bonus",190000,110000,150000,"{'science', 'analysis'}",2
+=======
+Familiar with agile application development methods. Understanding of QE processes in general.","$110,000.00 to $190,000.00 annually + bonus",190000,110000,150000,"{'science', 'analysis'}",2
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 31,Project Manager - Risk Management,"Ensuring an effective and robust framework is in place to enable the business to accept, manage or mitigate materials risks and issues; 
 Actively supporting the business in delivering change, ensuring that governance processes are crisp, efficient and effective; 
 Ensuring that GCS has an effective framework for Process Management that ensures processes are well designed, meet applicable requirements, are supported through robust controls, integrated testing, and appropriate investment in capabilities. 
@@ -610,7 +727,11 @@ In depth knowledge on SAFe and agile methodology
 Scrum Master Certification 
 Architectural concepts and solutioning mindset 
 Passionate and self-driven attitude to deliver value 
+<<<<<<< HEAD
 Collaborative and servant leadership skills","$80,000.00 to $155,000.00 annually + bonus",155000,80000,117500,"{'science', 'data'}",2
+=======
+Collaborative and servant leadership skills","$80,000.00 to $155,000.00 annually + bonus",155000,80000,117500,"{'science', 'data'}",2
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 33,Engineer - Full Stack Developer,"Beginner level ability in software development, such coding assignments 
 Function as member of an agile team by contributing to software builds through consistent development practices (tools, common components, and documentation) 
 Demonstrate increased self-reliance to achieve team goals 
@@ -636,7 +757,11 @@ Designs, codes, tests, maintains, and documents applications
 Takes part in reviews of own work and reviews of colleagues' work 
 Defines test conditions based on the requirements and specifications provided 
 Has deep understanding of the core tools used in the planning, analyzing, crafting, building, testing, configuring, and maintaining of assigned application(s) 
+<<<<<<< HEAD
 Intermediate knowledge of infrastructure technologies and components","$85,000.00 to $150,000.00 annually + bonus",150000,85000,117500,"{'science', 'data'}",2
+=======
+Intermediate knowledge of infrastructure technologies and components","$85,000.00 to $150,000.00 annually + bonus",150000,85000,117500,"{'science', 'data'}",2
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 25,"Engineer - Java, Python - Customer Marketing Technology","BS or MS degree in computer science, computer engineering, or other technical discipline, or equivalent work experience 
 Must have full stack development experience like building frontend and APIs 
 Must have experience of developing REST APIs using Java based frameworks 
@@ -648,7 +773,11 @@ Must be familiar with Agile methodology', 'should have knowledge of NO SQL Datab
 Should have working experience or familiarity with any public cloud 
 Should have working experience or familiarity with Cloud Compute Engine, App Engine, Kubernetes, Containers, Pods 
 Should have familiarity with gRPC and GraphQL APIs 
+<<<<<<< HEAD
 Should have familiarity with Unix Shell Scripting","$70,000.00 to $135,000.00 annually + bonus",135000,70000,102500,"{'python', 'sql'}",2
+=======
+Should have familiarity with Unix Shell Scripting","$70,000.00 to $135,000.00 annually + bonus",135000,70000,102500,"{'python', 'sql'}",2
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 22,Analyst-Interactive Development,"Support the day to day operations of the online marketing campaign launches & delivery processes, including on-time delivery, rush requests scheduling, audit support and training. 
 Provide GWS technical & process consultation to Marketing and all key stakeholders. 
 Act as a liaison between Marketing and Technology teams - translate business needs to our technology partners and explain capability/platform functionality to Marketing. 
@@ -661,7 +790,11 @@ Excellent organizational and project management skills (attention to detail, han
 Strong reporting skills (Excel Macro/V-look-up) and proficiency with Microsoft Office Suite specifically Visio and power-point. 
 Ability to work independently and be able to manage multiple priorities simultaneously in a fast-paced environment without direct supervision. 
 Ability to think creatively and problem solve; must have a ""can do"" attitude. 
+<<<<<<< HEAD
 Bachelor degree or equivalent work experience required.  Computer Science/engineering background will be preferred","$55,000.00 to $105,000.00 annually + bonus",105000,55000,80000,"{'science', 'data'}",2
+=======
+Bachelor degree or equivalent work experience required.  Computer Science/engineering background will be preferred","$55,000.00 to $105,000.00 annually + bonus",105000,55000,80000,"{'science', 'data'}",2
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 41,"Staff Auditor, Consumer Compliance","Working on multiple simultaneous audit engagements of all sizes and complexity across first and second line of defense business functions; 
 Developing an understanding of consumer compliance risks, controls, and processes through interviews of key personnel, reviewing documentary support (e.g. policies, procedures, flowcharts, reports, exhibits, etc.), and performing control walkthroughs to evaluate control design; 
 Performing control, transactional, and analytical testing to conclude on control operating effectiveness; 
@@ -672,7 +805,11 @@ Building and retaining subject matter expertise related to consumer compliance a
 Bachelor of Art/Science or equivalent degree in Accounting, Business, or other related field of study; 
 Strong written and verbal communication skills; 
 Proven integrity, accountability, responsibility, and personal motivation to set and meet goals and objectives;', 'Data-driven mentality and experience in the manipulation, assessment, interpretation, and presentation of data to support a conclusion; 
+<<<<<<< HEAD
 Audit, consumer compliance, or other relevant professional certifications, such as the Certified Internal Auditor.","$55,000.00 to $105,000.00 annually + bonus",105000,55000,80000,"{'analytical', 'data'}",2
+=======
+Audit, consumer compliance, or other relevant professional certifications, such as the Certified Internal Auditor.","$55,000.00 to $105,000.00 annually + bonus",105000,55000,80000,"{'analytical', 'data'}",2
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 35,Senior Engineer - Software,"Responsible for leading projects, designing system solutions, developing custom applications, and modifying existing applications to meet distinct and changing business requirements. 
 Handle coding, debugging, and documentation, as well working closely with other team domains. 
 Provide post implementation and ongoing production support 
@@ -699,7 +836,11 @@ Aptitude for learning and applying programming concepts.
 Ability to effectively communicate with internal and external business partners.', 'Knowledge of payments industry 
 Experience with coding skills across a variety of distributed technologies 
 Experience with a broad range of software languages and payments technologies 
+<<<<<<< HEAD
 Multiple years developing applications in Golang.","$110,000.00 to $190,000.00 annually + bonus",190000,110000,150000,{'learning'},1
+=======
+Multiple years developing applications in Golang.","$110,000.00 to $190,000.00 annually + bonus",190000,110000,150000,{'learning'},1
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 37,Application Threat Modeling Security Engineer (REMOTE OR HYBRID),"Develop security governance processes and procedures for the threat modeling program. 
 Assist in the development of threat modeling governance documentation. 
 Works with information security leadership to develop strategies and plans to enforce threat modeling and address identified control gaps. 
@@ -726,7 +867,11 @@ Experience with implementing security governance and risk management processes.
 3+ years experience with Java, Javascript and mobile application development. 
 3+ years Full stack knowledge or familiarity with database architectures including Oracle, SQL, DB2 and NoSQL Databases 
 Certification CISSP"", 'Exposure to IAM Controls (OAuth 2.0, OIDC, JWT) 
+<<<<<<< HEAD
 Strong familiarity with Cryptography Controls (Data at rest, in motion).","$110,000.00 to $190,000.00 annually + bonus",190000,110000,150000,{'modeling'},1
+=======
+Strong familiarity with Cryptography Controls (Data at rest, in motion).","$110,000.00 to $190,000.00 annually + bonus",190000,110000,150000,{'modeling'},1
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 42,Senior Java Software Engineer - Digital Banking,"Serve as a member of an agile development team that drives user story analysis and elaboration. 
 Design and develop software solutions, think abstractly and deal with ambiguous/under-defined problems. 
 Foster the spirit of collaboration across multiple internal teams. 
@@ -746,7 +891,11 @@ Good communication skills.
 High energy and ‘can-do’ attitude. 
 Interest in new technologies and tools, industry best practices. 
 Passion for shipping quality software fast and frequently. 
+<<<<<<< HEAD
 Attention to detail.","$110,000.00 to $190,000.00 annually + bonus",190000,110000,150000,{'analysis'},1
+=======
+Attention to detail.","$110,000.00 to $190,000.00 annually + bonus",190000,110000,150000,{'analysis'},1
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 44,Senior Engineer - Java / Kotlin / Go - Enterprise Architecture,"Knowledge of Observability concepts like Tracing, Metrics, Monitoring, Logging 
 Experience with large scale installations of Elasticsearch 
 Knowledge of OpenTelemetry / OpenTracing 
@@ -761,7 +910,11 @@ Experience in implementing and maintained highly scalable micro services in REST
 Hands on experience with large scale database deployments – relational or NoSQL 
 Knowledge and/or experience with containerized environments, Kubernetes, docker 
 Excitement for trying new things and building rapid POCs 
+<<<<<<< HEAD
 Enthusiasm for building secure, scalable, performant, and reliable enterprise applications","$110,000.00 to $190,000.00 annually + bonus",190000,110000,150000,{'data'},1
+=======
+Enthusiasm for building secure, scalable, performant, and reliable enterprise applications","$110,000.00 to $190,000.00 annually + bonus",190000,110000,150000,{'data'},1
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 43,Backend Software Engineer - Digital Banking,"Serve as a member of an agile development team that drives user story analysis and elaboration.  
 Design and develop software solutions, think abstractly and deal with ambiguous/under-defined problems.  
 Foster the spirit of collaboration across multiple internal teams.  
@@ -777,7 +930,11 @@ Experience building and supporting distributed highly available systems.
 Good communication skills.  
 High energy and ‘can-do’ attitude.  
 Interest in new technologies and tools, industry best practices. ', 'Passion for shipping quality software fast and frequently.  
+<<<<<<< HEAD
 Attention to detail. ","$85,000.00 to $150,000.00 annually + bonus",150000,85000,117500,{'analysis'},1
+=======
+Attention to detail. ","$85,000.00 to $150,000.00 annually + bonus",150000,85000,117500,{'analysis'},1
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 28,Full Stack Engineer - React & NodeJS - Digital Experience Engineering,"Serving as a core member of an agile team that drives user story analysis and develops responsive web applications. 
 Performing hands-on software development, typically spending most of time actually writing code and unit tests, doing proof of concepts, conducting code reviews, and testing in ongoing sprints 
 Performing ongoing refactoring of code, utilizing visualization and other techniques to fast track concepts, and delivering continuous improvement 
@@ -799,14 +956,22 @@ Experience with REST based interfaces.
 Experience with Continuous Integration and Continuous Delivery(CI/CD) 
 2-3 yrs working experience in an Agile or SAFe development environment 
 Experience in a11y and I18N is a plus 
+<<<<<<< HEAD
 GraphQL knowledge and experience is a plus.","$70,000.00 to $135,000.00 annually + bonus",135000,70000,102500,{'analysis'},1
+=======
+GraphQL knowledge and experience is a plus.","$70,000.00 to $135,000.00 annually + bonus",135000,70000,102500,{'analysis'},1
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 39,Engineer - GraphQL API,"Domain discovery and GraphQL API design 
 Building federated GraphQL servers and gateways on cloud 
 Integrating with data services to move data quickly and securely 
 Building shared tools, frameworks and libraries to make other engineers' lives better"", 'A BS or MS degree in computer science, computer engineering, or other technical discipline is desirable but not essential 
 Proven experience of building great software that solves real business needs 
 Aptitude and willingness to overcome challenges, take risks, experiment, and adapt quickly 
+<<<<<<< HEAD
 Self-motivated and collaborative","$70,000.00 to $135,000.00 annually + bonus",135000,70000,102500,{'data'},1
+=======
+Self-motivated and collaborative","$70,000.00 to $135,000.00 annually + bonus",135000,70000,102500,{'data'},1
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 4,Analyst/Senior Analyst - Data Governance and Management,"Lead and advance data governance principles, policies, and programs for stewardship, advocacy and custodianship of data 
 Assist with oversight and monitoring of databases and execution of processes to bring data under governance (e.g. system of record vs authorized data source definitions, policies, data integration, identifying data management roles, documenting and maintaining data definitions, etc.) 
 Collaborate with data owners and users to modify or implement new repeatable and reliable businesses processes in order to implement truly effective data management 
@@ -816,8 +981,13 @@ Understanding business challenges and strategies and connecting those to data an
 Basic experience / knowledge of Data Governance / Data Management tools (e.g., Collibra) and concepts (metadata, lineage, data quality, etc.) 
 Superior communication skills with the ability to engage, influence, and inspire partners to drive collaboration and alignment 
 Eagerness to test, learn, fail and improve is essential 
+<<<<<<< HEAD
 Must have a positive, collaborative leadership style with colleague and customer first attitude","$55,000.00 to $105,000.00 annually + bonus",105000,55000,80000,{'data'},1
 17,Service Delivery Manager,,"$110,000.00 to $190,000.00 annually + bonus",190000,110000,150000,set(),0
+=======
+Must have a positive, collaborative leadership style with colleague and customer first attitude","$55,000.00 to $105,000.00 annually + bonus",105000,55000,80000,{'data'},1
+17,Service Delivery Manager,,"$110,000.00 to $190,000.00 annually + bonus",190000,110000,150000,set(),0
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
 11,Engineer Java,"Owns all technical aspects of software development for assigned applications. 
 Performs hands-on architecture, design, and development of systems 
 Collaborates with other engineers, senior engineers, architects, and others through ongoing sprints 
@@ -844,4 +1014,8 @@ Clearly communicates ideas and concepts to others
 Leads work effectively and acts on own initiative without being prompted 
 Provides feedback to team members in code reviews 
 Drive creative changes & continuous improvements 
+<<<<<<< HEAD
 Explores new automation techniques to refine the agility, speed and quality of engineering initiatives and efforts","$85,000.00 to $150,000.00 annually + bonus",150000,85000,117500,set(),0
+=======
+Explores new automation techniques to refine the agility, speed and quality of engineering initiatives and efforts","$85,000.00 to $150,000.00 annually + bonus",150000,85000,117500,set(),0
+>>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
