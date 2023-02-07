@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # install the requirements
 # pip install -r "C:\Users\Jacob Shughrue\Dropbox\Coding\Python\amex_job_listing_web_scrape\requirements.txt"
 import pandas as pd
@@ -251,7 +251,7 @@ driver.close()
 # calculate how long this code ran for and print the result
 elapsed_time = time.time() - st
 print('Program Finished - Execution Time:', time.strftime("%M:%S", time.gmtime(elapsed_time)))
-=======
+
 # install the requirements
 # pip install -r "C:\Users\Jacob Shughrue\Dropbox\Coding\Python\amex_job_listing_web_scrape\requirements.txt"
 import pandas as pd
@@ -504,4 +504,4 @@ driver.close()
 # calculate how long this code ran for and print the result
 elapsed_time = time.time() - st
 print('Program Finished - Execution Time:', time.strftime("%M:%S", time.gmtime(elapsed_time)))
->>>>>>> a1c0f806eed1ac3230428b0258b2d7b4dbfd194b
+
