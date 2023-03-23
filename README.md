@@ -4,7 +4,7 @@
 **Use the Selenium library in Python to web scrape [American Express' open job postings](https://aexp.eightfold.ai/careers?intlink=us-amex-career-en-us-home-findalljobs)**
 
 ### File Glossary
-**1. export_current_job_postings.xlsx** - [File uploaded to Google Sheets here](https://docs.google.com/spreadsheets/d/1HljzjnqWC5c-imBxmA5Fb-VG9ZW3g45FBBAyX-RVwZo/edit?usp=sharing)
+**1. export_current_job_postings.xlsx** - This document shows the final results of the processed data frame. [The file has been uploaded to Google Sheets here](https://docs.google.com/spreadsheets/d/1HljzjnqWC5c-imBxmA5Fb-VG9ZW3g45FBBAyX-RVwZo/edit?usp=sharing)
 
 **2. amex_job_listing_web_scrape.py** - Python file that will open Google Chrome and scrape the the site and process the results
 
