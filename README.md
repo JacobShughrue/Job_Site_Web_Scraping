@@ -6,7 +6,7 @@
 ### File Glossary
 **1. export_current_job_postings.xlsx** - This document shows the final results of the processed data frame. [The file has been uploaded to Google Sheets here](https://docs.google.com/spreadsheets/d/1HljzjnqWC5c-imBxmA5Fb-VG9ZW3g45FBBAyX-RVwZo/edit?usp=sharing)
 
-**2. amex_job_listing_web_scrape.py** - Python file that will open Google Chrome and scrape the the site and process the results
+**2. amex_job_listing_web_scrape.py** - Python script that will open Google Chrome, scrape the the designated site, and process the results
 
 **3. requirementst.txt** - a list of packages needed for this project
 
