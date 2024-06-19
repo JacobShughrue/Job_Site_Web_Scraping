@@ -3,13 +3,6 @@
 ### Objective:
 **Use the Selenium library in Python to web scrape [American Express' open job postings](https://aexp.eightfold.ai/careers?intlink=us-amex-career-en-us-home-findalljobs)**
 
-### File Glossary
-**1. export_current_job_postings.xlsx** - This document shows the final results of the processed data frame. [The file has been uploaded to Google Sheets here](https://docs.google.com/spreadsheets/d/1HljzjnqWC5c-imBxmA5Fb-VG9ZW3g45FBBAyX-RVwZo/edit?usp=sharing)
-
-**2. amex_job_listing_web_scrape.py** - Python script that will open Google Chrome, scrape the the designated site, process, and transform the results
-
-**3. requirementst.txt** - a list of packages needed for this project
-
 ### My Steps
 **1.** At the begining of this project I tried to use the library Beautiful Soup to scrape Amex's job site but I realized that the page is loaded with dynamic JavaScript and additional html code is added as a user scrolls down the page... this sent me back to the drawing board.
 
@@ -24,5 +17,13 @@
 - Seeing that job descriptions can be lengthy and filled with standard HR verbiage, I created a column to extract only the bulleted attributes from the descripition, on these job postings bulleted lines list responsibilities, preferred expereince, and minimum qualifications.
 - Once all data was loaded, I dropped any data that was in a nonstandard format and parsed the job description for the salary range, allowing me to calculate a salary midpoint.
 - Finally, in order to quickly see positions of interest to me, I put together a list of search words (ex. {"data","analytics"}) - the program counts how many search words are in the job description and sorts the positions in a descending fashion, positions with the most number of hits will be at the top of the dataframe.
+- This program runs via a CRON job on a regularly scheduled cadence, the resulting data table is emailed to my inbox to view what is new at the company.  
+
+### File Glossary
+**1. export_current_job_postings.xlsx** - This document shows the final results of the processed data frame. [The file has been uploaded to Google Sheets here](https://docs.google.com/spreadsheets/d/1HljzjnqWC5c-imBxmA5Fb-VG9ZW3g45FBBAyX-RVwZo/edit?usp=sharing)
+
+**2. amex_job_listing_web_scrape.py** - Python script that will open Google Chrome, scrape the the designated site, process, and transform the results
+
+**3. requirementst.txt** - a list of packages needed for this project
 
 A video of the program running can be seen [here](https://www.youtube.com/watch?v=smIsr_H56MY&ab_channel=JacobShughrue)
